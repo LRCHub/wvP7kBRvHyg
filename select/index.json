@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "占っていたんです",
+  "base_artist": "Chevon",
+  "createdAt": "2026-02-22T17:54:53.518364Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "占っていたんです",
+      "artist": "Chevon",
+      "has_synced": false,
+      "path": "select/pl_01_占っていたんです_Chevon.txt"
+    }
+  ]
+}
